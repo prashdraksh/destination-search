@@ -1,0 +1,17 @@
+/* Write your CSS here */
+.bg-container {
+  text-align: center;
+}
+.search-img {
+  height: 15px;
+  background-color: #f1f5f9;
+}
+.input-element {
+  height: 20px;
+  color: #f1f5f9;
+}
+.search-arrangment {
+  display: flex;
+  justify-content: center;
+  color: #f1f5f9;
+}

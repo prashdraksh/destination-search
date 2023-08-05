@@ -1,0 +1,10 @@
+/* Write your CSS here */
+.image {
+  width: 30vw;
+  margin: 30px;
+}
+
+li {
+  display: inline-block;
+  margin: 0 10px;
+}
